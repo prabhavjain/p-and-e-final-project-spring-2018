@@ -41,7 +41,7 @@ The following poster would be put alongside the installation. It will also set t
 
 - Building the logic for the transformation of user's data to footprint's shape.
 - Stitching components of P5 sketch.
-- Integrating thermal printer to P5 for the users to take their footprint as a souvenir. (Due to time and technical constraints, this feature is still unimplemented)
+- Integrating thermal printer to P5 for the users to take their footprint receipt as a souvenir.
 
 
 ## Timeline
